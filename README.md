@@ -60,7 +60,7 @@ Given **two input videos**, the goal is to:
 
 ---
 
-## ✨ Conclusion
+##  Conclusion
 Both models are effective, but:
 
 - **SAM** gives higher-quality segmentation but requires manual input.
